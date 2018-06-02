@@ -10,7 +10,7 @@ This tweak was a bit more complicated to make, I not only had to write an Activa
 To set it up, I used the Activator listener NIC template from [here.](https://github.com/theos/templates "Official Theos templates") In terminal run /your/path/to/theos/bin/nic.pl or $THEOS/bin/nic.pl if you already exported $THEOS. I have a alias called tweak but it is the exact same thing. 
 
 <p align="center">
-  <img width="" height="" src="">
+  <img width="740" height="635" src="https://github.com/MTACS/MTACS.github.io/blob/master/images/popipnic.png">
 </p>
 
 Next cd to your tweak directory in some terminal. I use Hyper.is (check it out, much better than iTerm) and open it in your text editor, I use Atom (check it out, much better than Code or Sublime)
@@ -137,5 +137,5 @@ This uses C to grab the numerical IP address of en0, the main networking interfa
 By doing this we grab the UIView that is being shown to the user, aka any view as it all uses UIView. Do your gesture and you should see the current IP of your device displayed as a UIAlert.
 
 <p align="center">
-  <img width="200" height="356" src="">
+  <img width="200" height="356" src="https://github.com/MTACS/MTACS.github.io/blob/master/images/popicalrt.jpg">
 </p>
