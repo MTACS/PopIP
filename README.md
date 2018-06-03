@@ -7,7 +7,7 @@ Another tweak I decided to open source for beginners/developers wanting to use I
 
 This tweak was a bit more complicated to make, I not only had to write an Activator listener, but I had to grab the device's IP using another source. I am sure that I could've grabbed it via copying it from Settings, but I found an easier way.
 
-To set it up, I used the Activator listener NIC template from [here.](https://github.com/theos/templates "Official Theos templates") In terminal run /your/path/to/theos/bin/nic.pl or $THEOS/bin/nic.pl if you already exported $THEOS. I have a alias called tweak but it is the exact same thing. 
+To set it up, I used the Activator listener NIC template from [here.](https://github.com/theos/templates "Official Theos templates") In terminal run /your/path/to/theos/bin/nic.pl or $THEOS/bin/nic.pl if you already exported $THEOS. I have an alias called tweak but it is the exact same thing. 
 
 <p align="center">
   <img width="740" height="635" src="https://github.com/MTACS/MTACS.github.io/blob/master/images/popipnic.png">
